@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Natalya\source\repos\PV311\Lesson_1_12_02\Source.cpp(86,28): warning C4305: 'initializing': truncation from 'int' to 'unsigned short'
+C:\Users\Natalya\source\repos\PV311\Lesson_1_12_02\Source.cpp(86,23): warning C4309: 'initializing': truncation of constant value
+  Lesson_1_12_02.vcxproj -> C:\Users\Natalya\source\repos\PV311\x64\Debug\Lesson_1_12_02.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

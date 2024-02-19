@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Natalya\source\repos\PV311\Lesson_4_19_02\Source.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Natalya\source\repos\PV311\Lesson_4_19_02\Source.cpp(40,21): warning C4018: '<': signed/unsigned mismatch
+  Lesson_4_19_02.vcxproj -> C:\Users\Natalya\source\repos\PV311\x64\Debug\Lesson_4_19_02.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
